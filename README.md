@@ -47,7 +47,7 @@ In analyzing the company’s financial statements, the results align closely wit
 
 The COVID-19 case numbers show moderate deviation from Benford’s Law, which could be attributed to unique characteristics in pandemic data, such as regional reporting practices and periodic surges. This outcome highlights Benford’s Law’s limitations in certain datasets, especially those influenced by external factors.
 
-![COVID-19 Dataset Analysis](images/COVID19_RUSSIA.png)
+![COVID-19 Dataset Analysis](images/COVID19_Russia.png)
 
 Each notebook includes detailed code and visualizations for manual and library-based Benford calculations, allowing easy reproduction or extension of the analysis.
 
